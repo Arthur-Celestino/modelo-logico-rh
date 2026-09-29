@@ -1,6 +1,6 @@
 # Modelagem de Banco de Dados – Sistema de RH
 
-# Professora Ellen Martins Lopes da Silva
+### Professora Ellen Martins Lopes da Silva
 
 ## 📚 Sobre o Projeto
 
